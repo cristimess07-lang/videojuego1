@@ -1,0 +1,15 @@
+**/Library/
+**/Temp/
+**/Obj/
+**/Build/
+**/Builds/
+**/Logs/
+**/MemoryCaptures/
+**/UserSetting/
+**/.vs/
+**/ExportedObj/
+**/.consulo/
+**/.gradle/
+**/AssetBundles/
+**/PackageCache/
+**/ProjectSettings/ProjectVersion.txt
